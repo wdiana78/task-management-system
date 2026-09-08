@@ -1,5 +1,5 @@
-# Import functions from task_utils
-from task_utils import (
+# Import functions from task_manager.task_utils
+from task_manager.task_utils import (
     tasks,
     add_task,
     mark_task_as_complete,
